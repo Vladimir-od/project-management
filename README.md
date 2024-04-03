@@ -1,3 +1,3 @@
-# project-managment
+# project-management
 
-simple Ract app https://min-project-managment.netlify.app/
+simple React app https://min-project-managment.netlify.app/
